@@ -1,4 +1,7 @@
 # Food-recipes
+## Deployment:
+Details:
+https://food-recipes-tramng.netlify.app/
 	
 ## Technologies
 Project is created with:
